@@ -1,0 +1,15 @@
+.article-header{
+    background-color: rgb(72, 243, 72);
+    color: black;
+    border: 3px solid transparent;
+    text-align: center;
+}
+.section-content{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
+}
+.add-employee-btn{
+    float:"right";
+    margin-bottom: 10px;
+}
